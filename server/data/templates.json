@@ -1,0 +1,110 @@
+[
+  {
+    "aiPrompt": "portrait photo, neon vaporwave glow, pink and cyan lighting, retro-futuristic grid background",
+    "category": "Neon",
+    "effectType": "style-transfer",
+    "id": "neon-dreams",
+    "isNewDrop": true,
+    "title": "Neon Dreams",
+    "usesCount": 12840
+  },
+  {
+    "aiPrompt": "grainy 90s film photograph, washed colors, disposable camera flash aesthetic",
+    "category": "Retro",
+    "effectType": "film-grain",
+    "id": "retro-grain",
+    "isNewDrop": true,
+    "title": "Retro Grain",
+    "usesCount": 9621
+  },
+  {
+    "aiPrompt": "anime key visual, cel shading, vibrant colors, studio ghibli inspired background",
+    "category": "Anime",
+    "effectType": "style-transfer",
+    "id": "anime-vision",
+    "isNewDrop": true,
+    "title": "Anime Vision",
+    "usesCount": 15203
+  },
+  {
+    "aiPrompt": "cinematic still, dramatic rim light, teal and orange grade, anamorphic bokeh",
+    "category": "Cinematic",
+    "effectType": "color-grade",
+    "id": "cinematic-mood",
+    "isNewDrop": false,
+    "title": "Cinematic Mood",
+    "usesCount": 7844
+  },
+  {
+    "aiPrompt": "glitch art portrait, RGB channel split, datamosh, VHS tracking lines",
+    "category": "Glitch",
+    "effectType": "distortion",
+    "id": "glitch-pop",
+    "isNewDrop": false,
+    "title": "Glitch Pop",
+    "usesCount": 6912
+  },
+  {
+    "aiPrompt": "y2k aesthetic, chrome text, iridescent bubbles, early 2000s web design collage",
+    "category": "Y2K",
+    "effectType": "style-transfer",
+    "id": "y2k-rewind",
+    "isNewDrop": false,
+    "title": "Y2K Rewind",
+    "usesCount": 5430
+  },
+  {
+    "aiPrompt": "soft pastel dreamscape, cotton candy clouds, gentle gradient haze",
+    "category": "Pastel",
+    "effectType": "color-grade",
+    "id": "pastel-dream",
+    "isNewDrop": false,
+    "title": "Pastel Dream",
+    "usesCount": 4890
+  },
+  {
+    "aiPrompt": "noir detective portrait, high contrast black and white, venetian blind shadows",
+    "category": "Noir",
+    "effectType": "monochrome",
+    "id": "noir-noir",
+    "isNewDrop": false,
+    "title": "Noir",
+    "usesCount": 3215
+  },
+  {
+    "aiPrompt": "cyberpunk street portrait, rain reflections, holographic signage, blade runner mood",
+    "category": "Cyber",
+    "effectType": "style-transfer",
+    "id": "cyber-street",
+    "isNewDrop": true,
+    "title": "Cyber Street",
+    "usesCount": 11052
+  },
+  {
+    "aiPrompt": "baroque floral portrait, flowers blooming from hair, renaissance painting style",
+    "category": "Floral",
+    "effectType": "style-transfer",
+    "id": "floral-bloom",
+    "isNewDrop": false,
+    "title": "Floral Bloom",
+    "usesCount": 6047
+  },
+  {
+    "aiPrompt": "liquid metal portrait, chrome skin, studio lighting, futuristic fashion editorial",
+    "category": "Metallic",
+    "effectType": "style-transfer",
+    "id": "liquid-metal",
+    "isNewDrop": false,
+    "title": "Liquid Metal",
+    "usesCount": 7128
+  },
+  {
+    "aiPrompt": "holographic foil portrait, rainbow iridescent shine, prisma light leaks",
+    "category": "Hologram",
+    "effectType": "glow",
+    "id": "hologram-shine",
+    "isNewDrop": true,
+    "title": "Hologram Shine",
+    "usesCount": 8936
+  }
+]

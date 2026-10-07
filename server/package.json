@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.21.2","express-rate-limit":"^7.5.0","multer":"^1.4.5-lts.1"},"description":"TrendLens backend — weekly AI trend-template studio (templates API, free AI image proxy, premium uploads, admin API)","engines":{"node":">=22"},"license":"UNLICENSED","main":"src/index.js","name":"trend-lens-server","scripts":{"start":"node src/index.js"},"version":"1.0.0"}

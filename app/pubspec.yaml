@@ -1,0 +1,31 @@
+name: trend_lens
+description: Weekly AI trend-template studio for TikTok/Reels/Shorts creators.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  shared_preferences: ^2.2.3
+  http: ^1.2.2
+  path_provider: ^2.1.4
+  ffmpeg_kit_flutter: ^6.0.3
+  image_picker: ^1.0.8
+  share_plus: ^10.1.2
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/templates.json
